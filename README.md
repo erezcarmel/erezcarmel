@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erezcarmel)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erezcarmel)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erezcarmel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erezcarmel/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@erezcarmel)
+[![GitHub](https://img.shields.io/badge/GitHub-181717&logo=github&logoColor=white)](https://github.com/erezcarmel)
 
 💬 Feel free to reach out for collaborations, discussions, or just to say hi!
 
@@ -50,4 +50,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erezcarmel&show_icons=true&locale=en&layout=compact" alt="erezcarmel" height="195"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erezcarmel&show_icons=true&locale=en" alt="erezcarmel" height="195"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erezcarmel&show_icons=true&hide=contribs&hide_rank=true&locale=en" alt="erezcarmel" height="195"/></p>
