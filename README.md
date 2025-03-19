@@ -8,7 +8,7 @@
   I write code 🤓.
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erezcarmel&label=Profile%20views&color=0e75b6&style=flat" alt="erezcarmel" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=erezcarmel&label=Profile%20views&color=0e75b6&style=flat" alt="erezcarmel" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
