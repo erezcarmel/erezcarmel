@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Erez Carmel</h1>
 <h3 align="center">
-  Frontend architect, developer, consultant & lecturer 🧑‍💻.<br>
+  Fullstack develoer, architect, consultant & lecturer 🧑‍💻.<br>
   Former founder and CEO of Poze ☠️.<br>
   Metallica addict 🤘.<br>
   I write code 🤓.
