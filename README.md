@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4E16AQGveBkqOYkNgw/profile-displaybackgroundimage-shrink_350_1400/B4EZguBkJuHEAY-/0/1753118822527?e=1776297600&v=beta&t=gQndZZ-7TgaauJJ1SeKi1X-zSjipT65J5v1Z2g8fRCw" alt="Erez Carmel" id="ember578" class="full-width evi-image ember-view">
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQGveBkqOYkNgw/profile-displaybackgroundimage-shrink_350_1400/B4EZguBkJuHEAY-/0/1753118822527?e=1778716800&v=beta&t=aIepVebclFHhZaQFizJyHwaKLE6XLlcq2xOXrjnbef0" alt="Erez Carmel" id="ember578" class="full-width evi-image ember-view">
 
 <h1 align="center">Hi 👋, I'm Erez Carmel</h1>
 <h3 align="center">
